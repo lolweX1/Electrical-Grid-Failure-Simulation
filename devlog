@@ -1,0 +1,12 @@
+4/6/2026
+Redoing a lot of things, working on GUI before the actual stuff. 
+Curr issue to resolve: the hover_tile doesn't snap to the right tile when the topleft%tilesize != 0
+More issues to resolve: hover tile should disappear or follow the other tiles when you move window
+
+4/7/2026
+hover tile now snaps
+You can place down images
+things to resolve: hover tile still buggy, when over a specific tile when right click, give other options
+
+4/8/2026
+New issue: the wires are bugged, you can set them outside. There is no way to cancel the wire, you can put the wires onto the same node
